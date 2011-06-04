@@ -1,0 +1,5 @@
+This is the Arduino sketch.
+
+It receives ASCII characters over XBee on the serial interface and blinks an LED attached to port 13
+
+Code from: http://evilquark.com/blog/?tag=xbee-explorer-usb
